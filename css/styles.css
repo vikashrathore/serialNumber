@@ -1,0 +1,32 @@
+body {
+    background-color: #dae8df;
+  }
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+  }
+
+  h1 {
+    color: #455448;
+    width: 50%;
+  }
+
+textarea {
+  background-color: #f0f3f7
+}
+ .bodychange {
+   background-color: #dae8df;
+ }
+.logo {
+  background-color: #cce6d6;
+}
+
+.search {
+  background-color: #22bd3e;
+  color: white;
+  border-color: gold;
+  border-radius: 15%;
+}
